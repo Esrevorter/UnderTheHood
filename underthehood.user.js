@@ -3,6 +3,7 @@
 // @namespace    x-uth-viewer
 // @version      1.0.0
 // @description  Parses X's "Under the Hood" JSON export into a clean, readable reach report
+// @author       esrevorter
 // @match        https://x.com/*
 // @match        https://*.x.com/*
 // @match        https://twitter.com/*
@@ -10,6 +11,8 @@
 // @run-at       document-idle
 // @grant        none
 // @noframes
+// @homepageURL  https://github.com/esrevorter/underthehood
+// @supportURL   https://buymeacoffee.com/esrevorter
 // ==/UserScript==
 
 (function () {

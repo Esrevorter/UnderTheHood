@@ -1,8 +1,8 @@
 # UnderTheHood — X "Under the Hood" Report Viewer
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/erevorte/underthehood)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/esrevorter/underthehood)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow.svg)](https://buymeacoffee.com/erevorte)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow.svg)](https://buymeacoffee.com/esrevorter)
 
 A **Tampermonkey/Greasemonkey userscript** that transforms X's (formerly Twitter) raw "Under the Hood" JSON export into a beautiful, readable reach analysis report with an elegant floating UI.
 
@@ -267,7 +267,7 @@ The parser will display:
 
 If you find this tool helpful, consider supporting its development:
 
-### [☕ Buy Me a Coffee](https://buymeacoffee.com/erevorte)
+### [☕ Buy Me a Coffee](https://buymeacoffee.com/esrevorter)
 
 Your support helps:
 - Maintain and improve the script
@@ -275,7 +275,7 @@ Your support helps:
 - Keep the tool free and open-source
 - Ensure compatibility with X's changes
 
-[**→ Visit buymeacoffee.com/erevorte**](https://buymeacoffee.com/erevorte)
+[**→ Visit buymeacoffee.com/esrevorter**](https://buymeacoffee.com/esrevorter)
 
 ---
 
@@ -411,9 +411,9 @@ Contributions are welcome! Areas for improvement:
 
 ## 📬 Contact
 
-- **Developer**: erevorte
-- **Support**: [Buy Me a Coffee](https://buymeacoffee.com/erevorte)
-- **Repository**: [GitHub](https://github.com/erevorte/underthehood)
+- **Developer**: esrevorter
+- **Support**: [Buy Me a Coffee](https://buymeacoffee.com/esrevorter)
+- **Repository**: [GitHub](https://github.com/esrevorter/underthehood)
 
 ---
 
@@ -421,6 +421,6 @@ Contributions are welcome! Areas for improvement:
 
 **Made with ❤️ for the X community**
 
-[☕ Support Development](https://buymeacoffee.com/erevorte) • [📖 View Source](https://github.com/erevorte/underthehood) • [🐛 Report Issue](https://github.com/erevorte/underthehood/issues)
+[☕ Support Development](https://buymeacoffee.com/esrevorter) • [📖 View Source](https://github.com/esrevorter/underthehood) • [🐛 Report Issue](https://github.com/esrevorter/underthehood/issues)
 
 </div>
